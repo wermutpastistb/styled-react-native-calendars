@@ -1,4 +1,4 @@
-export const foregroundColor = 'rgb(232, 232, 232)';
+export const foregroundColor = 'rgb(15,19,25)';
 export const backgroundColor = '#f2F4f5'; // Agenda's reservations bg color
 
 export const separatorColor = '#f2F4f5'; // not in use
